@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Carrusel</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background-color: transparent;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Código de Elfsight -->
+  <script src="https://elfsightcdn.com/platform.js" async></script>
+  <div class="elfsight-app-930147b3-5e68-434e-9683-b37f714f4278" data-elfsight-app-lazy></div>
+
+</body>
+</html>
